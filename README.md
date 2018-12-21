@@ -29,6 +29,7 @@
 ## Turn on Apache
 
 > sudo apachectl status
+
 > sudo apachectl start
 
 ## Run configuration file syntax test
@@ -80,6 +81,7 @@ Uncomment These lines
 ## Create Sites Folder under your Home folder
 
 > mkdir ~/Sites
+
 > sudo vi ~/Sites/index.php
 
 <?php
