@@ -24,6 +24,7 @@
 > mv composer.phar /usr/local/bin/composer
 
 ## Install Gitflow
+
 > brew install git-flow-avh
 
 ## Turn on Apache
@@ -135,7 +136,9 @@ password=secret
 
 ## setup prototype folder from Frontender
 
-> cd /prototype÷folder
+> cd /prototype_folder
+
+## Same as npm install but doesn't install the latest version rather uses the version in the package.jso
 
 > npm ci 
 
